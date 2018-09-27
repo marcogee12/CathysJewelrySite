@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel= "stylesheet" type="text/css" href="style.css">
+	<title> PageTitle </title>
+</head>
+	<body bgcolor="#8B8A8A">
+		<h1> CATHY'S</h1>
+		<h1>JEWELRY </h1>
+		<hr>
+		<a rel= "homepage" type"html" href="HTMLExamp.html" style="color: white font-family: Baskerville Old Face">Home</a>
+		<br>
+		<br>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+			<img src="engRing.jpg" alt="EngagementRing" width=400; height=400/>
+		</div>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+		<img src="diamond.jpg" alt="diamond" width=400; height=400/>
+		</div>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+			<img src="jewelry.jpg" alt="Jewelry" width=400; height=400/>
+		</div>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+			<img src="bands.jpg" alt="WeddingBands" width=400; height=400/>
+		</div>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+			<img src="watch.jxr" alt="Watch" width=400; height=400/>
+		</div>
+		<a class="prev"
+			onclick="plusSlides(-1)">&#10094;
+			</a>
+			<a class="next"
+			onclick="plusSlides(1)">&#10095;
+			</a>
+			</div>
+						<br>
+				<script>
+				
+var slideIndex = 0;
+showSlides();
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1} 
+    slides[slideIndex-1].style.display = "block"; 
+    setTimeout(showSlides, 3500); // Change image every 3.5 seconds
+} 
+</script>
+		<p id="demo"; style="color: white">javascript can change html content</p>
+		<button type="button"
+			onclick='document.getElementById("demo").innerHTML="Hello JavaScript!"'>
+					clickme!</button>
+		<p style="font-family: comic sans ms; color: white">This is a paragraph</p>
+		
+		<br>
+		<hr>
+		<h1>Another header</h1>
+	</body>
+</html>
