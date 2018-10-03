@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel= "stylesheet" type="text/css" href="style.css">
+	<title> Home </title>
+</head>
+	<body bgcolor="#8B8A8A">
+	<div2 class="topnav">
+  <div2 class="search-container">
+    <form action="/action_page.php">
+      <input type="text" placeholder="Search.." name="search">
+      <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+  </div2>
+</div2>
+		<h1> CATHY'S</h1>
+		<h1 style="font-size: 30px">JEWELRY </h1>
+		<hr>
+		<ul>
+			<li>
+				<a rel= "homepage" type"html" href="HTMLExamp.html" style="color: black font-family: Baskerville Old Face">HOME</a>
+				<ul>
+					<li>
+						<a href="HTMLExamp.html" style= "font-family: calibri">Home Page</a>
+					</li>
+				</ul>
+			</li>
+		</ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<ul>
+			<li>
+				<a rel= "rings" type"html" href="rings.HTML" style="color: black font-family: Baskerville Old Face">RINGS</a>
+					<ul>
+						<li>
+							<a href="HTMLExamp.html" style= "font-family: calibri">Engagement Rings</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Promise Rings</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Anniversary & Weddings</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Men's</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Personalized</a>
+						</li>
+					</ul>
+			</li>
+		</ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<ul>
+			<li>
+				<a rel= "necklaces" type"html" href="necklaces.HTML" stule="color: black font-family: Baskerville Old Face">NECKLACES</a>
+					<ul>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Diamond</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Chain</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Fashion</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Lockets</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Personalized</a>
+						</li>
+					</ul>
+			</li>
+		</ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<ul>
+			<li>
+				<a rel= "earrings" type"html" href="earrings.html" style="color: black font-family: Baskerville Old Face">EARRINGS</a>
+					<ul>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Diamond</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Hoop</a>
+						</li>
+						<li>
+							<a href="HTML.Examp.html" style="font-family: calibri"> Stud</a>
+						</li>
+					</ul>
+			</li>
+		</ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<ul>
+			<li>
+				<a rel= "watches" type"html" href="watches.html" style="color: black font-family: Baskerville Old Face">WATCHES</a>
+					<ul>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Brand Name</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Men's Watches</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Women's Watches</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Childrens's Watches</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Pocket Watches</a>
+						</li>
+					</ul>
+			</li>
+		</ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<ul>
+			<li>
+				<a rel= "bracelets" type"html" href="bracelets.html" style="color: black font-family: Baskerville Old Face">BRACELETS</a>
+					<ul>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Diamond</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Anklet</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Chain</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Fashion</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Personalized</a>
+						</li>
+					</ul>
+			</li>
+		</ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<ul>
+			<li>
+				<a rel= "personalized" type"html" href="personalized.html" style="color: black font-family: Baskerville Old Face">PERSONALIZED</a>
+					<ul>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Rings</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Necklaces</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Earrings</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Bracelets</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Couples Jewelry</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Name, Initial, and Monogram Jewelry</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Engraveable</a>
+						</li>
+					</ul>
+			</li>
+		</ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<ul>
+			<li>
+				<a rel= "personalized" type"html" href="personalized.html" style="color: black font-family: Baskerville Old Face">REPAIR</a>
+					<ul>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Rings</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Necklaces</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Earrings</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Watches</a>
+						</li>
+						<li>
+							<a href="Watches.html" style="font-family: calibri"> Bracelets</a>
+						</li>
+					</ul>
+			</li>
+		</ul>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+			<img src="engRing.jpg" alt="EngagementRing" width=700; height=500/>
+		</div>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+		<img src="diamond.jpg" alt="diamond" width=700; height=500/>
+		</div>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+			<img src="jewelry.jpg" alt="Jewelry" width=700; height=500/>
+		</div>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+			<img src="bands.jpg" alt="WeddingBands" width=700; height=500/>
+		</div>
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+			<img src="watch.jxr" alt="Watch" width=700; height=500/>
+		</div>
+		<a class="prev"
+			onclick="plusSlides(-1)">&#10094;
+			</a>
+			<a class="next"
+			onclick="plusSlides(1)">&#10095;
+			</a>
+			</div>
+						<br>
+				<script>
+				
+var slideIndex = 0;
+showSlides();
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1} 
+    slides[slideIndex-1].style.display = "block"; 
+    setTimeout(showSlides, 3000);	// Change image every 3.5 seconds
+} 
+</script>
+
+		<p id="demo"; style="color: white">javascript can change html content</p>
+		<button type="button"
+			onclick='document.getElementById("demo").innerHTML="Hello JavaScript!"'>
+					clickme!</button>
+		<p style="font-family: comic sans ms; color: white">This is a paragraph</p>
+		
+		<br>
+		<hr>
+		<div2>
+			<li><a rel="About_Us" type"html" href="About_Us.HTML" align="left" style="color: black font-family: Baskerville Old Face">About Us</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a rel= "Customer_Services" type"html" href="Customer_Services.HTML" stule="color: black font-family: Baskerville Old Face">Cusotmer Services</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a rel= "In_Store_Services" type"html" href="In_Store_Services.HTML" stule="color: black font-family: Baskerville Old Face">In Store Services</a>
+		</div2>
+		<h2>Our Company&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Contact Us &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Book An Appointment</h2>
+		<h2>           &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Returns and Exchanges &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Repair</h2>
+		<h2>           &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Help and FAQs &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Custom Design</h2>
+	</body>
+	<style>
+</html>
